@@ -1,0 +1,14 @@
+ /********************************************
+ * README.txt
+* Copyright (c) CNR-IMATI Ge - 2017
+ * Author: Silvia Biasotti
+ * All rights reserved
+********************************************/
+
+This code computes the Hausdorff distance between two persistent spaces.
+
+Usage: dist= EMDdist(filehistogram1,filehistogram2)
+
+Input: two persistent spaces (store in the files persSpc_1.space and persSpc_2.space, respectively).
+
+it prints the distance value in the standard output.
